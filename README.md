@@ -11,3 +11,16 @@ You can install them using the command:
 ```bash
 pip install -r requirements.txt
 git clone https://github.com/ShivamCodeing/Python-Keylogger.git
+python main.py
+```
+## Contributing
+Contributions are welcome and appreciated. To contribute to this project, you can:
+
+- Fork the project and clone it to your local machine.
+- Create a new branch for your feature or bug fix.
+- Make your changes and commit them with a descriptive message.
+- Push your branch to your forked repository and create a pull request.
+- Wait for the review and feedback.
+
+
+
