@@ -1,4 +1,5 @@
-! [Keylogger Image] (https://th.bing.com/th/id/OIP.vjqTbKwVjAidKh1jI-RtbwHaD4?rs=1&pid=ImgDetMain?raw=true “Keylogger Image”)
+
+![OIP](https://github.com/ShivamCodeing/Python-Keylogger/assets/101182472/89d0529b-4abc-4dc0-958d-b30b1242e04b)
 
 # Python-Keylogger
 This is a Python-based keylogger that can record the keystrokes typed on a computer keyboard, and optionally other activities such as clipboard text, screenshots, and audio. It can also send the data to a remote server or a phone number using various methods, such as email or SMS. This project was created for educational purposes only and should not be used for malicious purposes.
